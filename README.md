@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mohsin0a
-- 👀 I’m interested in Java full-stack
-- 🌱 I’m currently learning Java programming 
-- 💞️ I’m looking to collaborate on Java projects
+- 👋 Hi, I’m Mohsin
+- 👀 I’m Learning and bulid ML & Data Science stuff
+  
 
-- 📫 How to reach me via my twitter ac
+- 📫 How to reach me via my twitter ac:-https://x.com/mohsinxad
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Don,t have a CS engineering degree but I like to study core subjects of it.
 
