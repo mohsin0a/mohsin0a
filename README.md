@@ -7,18 +7,13 @@ Go developer focused on building scalable cloud-native systems.
 - Learning Kubernetes internals
 - Exploring Cloud-Native ecosystem
 - Writing clean, testable backend systems
+- Working toward CNCF contributions and production-grade systems.
 
 ## Interests
-Distributed systems • DevOps • System Design • Kubernetes • Problem Solving
+Distributed systems • DevOps • System Design • Kubernetes • Problem Solving 
 
 ## Tech
 Go • Linux • Docker • Git • Kubernetes (learning) 
-
-## 2026 Goals 
-- Contribute consistently to CNCF projects
-- Master Go concurrency & system design
-- Build production-grade distributed services
-
 
 ## 📫 Contact
 
