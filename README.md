@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohsin Ahmad
 
-<!--
-**mohsin0a/mohsin0a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go developer focused on building scalable cloud-native systems.
 
-Here are some ideas to get you started:
+## Current Focus
+- Deep diving into Go
+- Learning Kubernetes internals
+- Exploring Cloud-Native ecosystem
+- Writing clean, testable backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Distributed systems • DevOps • System Design • Kubernetes • Problem Solving
+
+## Tech
+Go • Linux • Docker • Git • Kubernetes (learning) 
+
+## 2026 Goals 
+- Contribute consistently to CNCF projects
+- Master Go concurrency & system design
+- Build production-grade distributed services
+
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mohsin-ahmad-dev
+
+- Email: mohsinahmad6029@gmail.com
